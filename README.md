@@ -1,4 +1,6 @@
-hello-worId
-===========
+major
+minor
+mega
 
-My first repository on GitHub.
+
+ego first readme.md in GitHub
