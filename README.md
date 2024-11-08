@@ -1,7 +1,3 @@
-major
-minor
-mega
-kernel
-i
-ego first readme.md in GitHub
+e_g_o last repo on GitHub
 o
+i
